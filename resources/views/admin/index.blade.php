@@ -38,7 +38,7 @@
             <p class="lead">Solusi Absensi Digital</p>
             <hr class="my-4">
             <p>Copyright &copy; <?php echo date('Y') ?>
-                <a href="http://jemari-edu.web.id">Jemari Edu</a></p>
+                <a href="http://jemari-edu.web.id">Admin</a></p>
             </div>
         </div>
         </row>

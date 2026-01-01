@@ -89,10 +89,10 @@
                 <footer class="main-footer">
                     <strong
                         >Copyright &copy; @php echo date('Y') @endphp
-                        <a href="http://jemari-edu.web.id">Jemari Edu</a></strong
+                        <a href="http://jemari-edu.web.id">Nabila</a></strong
                     >
                     <div class="float-right d-none d-sm-inline-block">
-                        <b>Versi</b> 1.0.0
+                        <b></b> 
                     </div>
                 </footer>
                 <!-- Control Sidebar -->
